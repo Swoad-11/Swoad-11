@@ -32,11 +32,7 @@
 
 ---
 
-<details>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Swoad-11/github-readme-stats)
-
-</details>
 
 [twitter]: https://twitter.com/T11Swoad
 [facebook]: https://www.facebook.com/ToufiqIslam11Swoad/
