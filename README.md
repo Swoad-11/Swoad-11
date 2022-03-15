@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=Swoad-11&color=green)
+
 ### Hi there, I'm Toufiq 👋
 
 ## I'm a Student and Developer!!
