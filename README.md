@@ -34,6 +34,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Swoad-11/github-readme-stats)
 
+---
+
+<detail>
+![Toufiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swoad-11&show_icons=true&theme=tokyonight)
+</detail>
+
 [twitter]: https://twitter.com/T11Swoad
 [facebook]: https://www.facebook.com/ToufiqIslam11Swoad/
 [instagram]: https://www.instagram.com/___swoad.11/
