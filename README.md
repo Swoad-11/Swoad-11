@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Swoad-11&color=green)
+![](https://komarev.com/ghpvc/?username=Swoad-11&color=blueviolet)
 
 ### Hi there, I'm Toufiq 👋
 
@@ -15,6 +15,7 @@
 [<img align="left" alt="Toufiq | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Toufiq | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Toufiq | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Toufiq | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 <br />
 
@@ -49,3 +50,4 @@
 [facebook]: https://www.facebook.com/ToufiqIslam11Swoad/
 [instagram]: https://www.instagram.com/___swoad.11/
 [linkedin]: https://www.linkedin.com/in/tis/
+[discord]: https://discord.com/channels/Swoad#7546
