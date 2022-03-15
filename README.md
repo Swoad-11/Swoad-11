@@ -36,9 +36,12 @@
 
 ---
 
-<detail>
-![Toufiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swoad-11&show_icons=true&theme=tokyonight)
-</detail>
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Toufiq's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Swoad-11&show_icons=true&theme=tokyonight"/>
+
+</details>
 
 [twitter]: https://twitter.com/T11Swoad
 [facebook]: https://www.facebook.com/ToufiqIslam11Swoad/
