@@ -2,12 +2,12 @@
 
 ### Hi there, I'm Toufiq 👋
 
-## I'm a Student and Developer!!
+## I'm a Developer!!
 
 - 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning everything
+- 🌱 Learning everything
 - 🥅 Goals: Learn about blockchaining
-- ⚡ Fun fact: I love to draw
+- ⚡ Fun fact: I love to draw & a football maniac
 
 ### Connect with me:
 
