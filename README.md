@@ -36,12 +36,12 @@
 ### Languages:
 
 <div align="left">
-<img align="left" alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-<img align="left" alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-<img align="left" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff" />
-<img align="left" alt="Java" src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white" />
-<img align="left" alt="Python" src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white" />
-<img align="left" alt="C & C++" src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff" />
+<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff" />
+<img alt="Java" src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white" />
+<img alt="C & C++" src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff" />
 </div>
 
 
@@ -51,20 +51,20 @@
 ### Tools:
 
 <div align="left">
-<img align="left" alt="Visual Studio Code" src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white" />
-<img align="left" alt="Git" src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF" />
-<img align="left" alt="GitHub" src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF" />
-<img align="left" alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF" />
-<img align="left" alt="ExpressJS" src="https://img.shields.io/badge/-Express.js-787878?style=flat" />
-<img align="left" alt="React" src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff" />
-<img align="left" alt="Node.js" src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white" />
-<img align="left" alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
-<img align="left" alt="Tailwindcss" src="https://img.shields.io/badge/-Tailwind%20CSS-20B2AA?style=flat&logo=tailwindcss&logoColor=white" />
-<img align="left" alt="Heroku" src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white" />
-<img align="left" alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF" />
-<img align="left" alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-FF8C00?style=flat&logo=adobeillustrator&logoColor=800000" />
-<img align="left" alt="OpenGL" src="https://img.shields.io/badge/-OpenGL-5F9EA0?style=flat&logo=opengl&logoColor=white" />
-<img align="left" alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-90EE90?style=flat&logo=androidstudio&logoColor=white" />
+<img alt="Visual Studio Code" src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white" />
+<img alt="Git" src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF" />
+<img alt="GitHub" src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF" />
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF" />
+<img alt="ExpressJS" src="https://img.shields.io/badge/-Express.js-787878?style=flat" />
+<img alt="React" src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff" />
+<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white" />
+<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
+<img alt="Tailwindcss" src="https://img.shields.io/badge/-Tailwind%20CSS-20B2AA?style=flat&logo=tailwindcss&logoColor=white" />
+<img alt="Heroku" src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white" />
+<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF" />
+<img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-FF8C00?style=flat&logo=adobeillustrator&logoColor=800000" />
+<img alt="OpenGL" src="https://img.shields.io/badge/-OpenGL-5F9EA0?style=flat&logo=opengl&logoColor=white" />
+<img alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-90EE90?style=flat&logo=androidstudio&logoColor=white" />
 </div>
 
 <br />
