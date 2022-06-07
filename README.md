@@ -12,6 +12,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Toufiq | LinkedIn"  src="https://img.shields.io/badge/-Linkedin-4682B4?style=flat&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Toufiq | Gmail"  src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />][Gmail]
 [<img align="left" alt="Toufiq | Facebook"  src="https://img.shields.io/badge/-Facebook-1E90FF?style=flat&logo=facebook&logoColor=white" />][facebook]
 [<img align="left" alt="Toufiq | Twitter"  src="https://img.shields.io/badge/-Twitter-white?style=flat&logo=twitter&logoColor=4682B4" />][twitter]
 [<img align="left" alt="Toufiq | Instagram"  src="https://img.shields.io/badge/-Instagram-BA55D3?style=flat&logo=instagram&logoColor=white" />][instagram]
@@ -67,3 +68,4 @@
 [facebook]: https://www.facebook.com/ToufiqIslam11Swoad/
 [instagram]: https://www.instagram.com/___swoad.11/
 [linkedin]: https://www.linkedin.com/in/tis/
+[Gmail]: mailto:toufiq11swoad@gmail.com
