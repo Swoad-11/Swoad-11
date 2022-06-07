@@ -14,8 +14,8 @@
 ### Connect with me:
 
 <div align="left">
-<a href="https://www.linkedin.com/in/tis/">
-<img alt="Toufiq | LinkedIn" style="padding-right: 10px !important;" src="https://img.shields.io/badge/-Linkedin-4682B4?style=flat&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/tis/" style="padding-right: 10px">
+<img alt="Toufiq | LinkedIn" style="padding-right: 10px" src="https://img.shields.io/badge/-Linkedin-4682B4?style=flat&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:toufiq11swoad@gmail.com">
 <img alt="Toufiq | Gmail" style="padding-right: 10px;" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"/>
