@@ -21,12 +21,12 @@
 
 ### Languages:
 
-<img align="left" alt="C & CPP" width="26px" src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white" style="padding-right:10px;" />
-<img align="left" alt="Java" width="26px" src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white" style="padding-right:10px;" />
+<img align="left" alt="C & CPP"  src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff" style="padding-right:10px;" />
+<img align="left" alt="CSS3"  src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" style="padding-right:10px;" />
+<img align="left" alt="HTML5"  src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" style="padding-right:10px;" />
+<img align="left" alt="JavaScript"  src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff" style="padding-right:10px;" />
+<img align="left" alt="Python"  src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white" style="padding-right:10px;" />
+<img align="left" alt="Java"  src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white" style="padding-right:10px;" />
 
 <br />
 <br />
