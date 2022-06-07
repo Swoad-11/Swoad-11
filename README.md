@@ -15,19 +15,19 @@
 
 <div align="left">
 <a href="https://www.linkedin.com/in/tis/">
-<img alt="Toufiq | LinkedIn"  src="https://img.shields.io/badge/-Linkedin-4682B4?style=flat&logo=linkedin&logoColor=white" style="padding-right:10px" />
+<img alt="Toufiq | LinkedIn"  src="https://img.shields.io/badge/-Linkedin-4682B4?style=flat&logo=linkedin&logoColor=white" padding-right="10px" />
 </a>
 <a href="mailto:toufiq11swoad@gmail.com">
-<img alt="Toufiq | Gmail"  src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" style="padding-right:10px" />
+<img alt="Toufiq | Gmail"  src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" padding-right="10px"" />
 </a>
 <a href="https://www.facebook.com/ToufiqIslam11Swoad/" >
-<img alt="Toufiq | Facebook"  src="https://img.shields.io/badge/-Facebook-1E90FF?style=flat&logo=facebook&logoColor=white" style="padding-right:10px" />
+<img alt="Toufiq | Facebook"  src="https://img.shields.io/badge/-Facebook-1E90FF?style=flat&logo=facebook&logoColor=white" padding-right="10px"" />
 </a>
 <a href="https://twitter.com/T11Swoad">
-<img alt="Toufiq | Twitter"  src="https://img.shields.io/badge/-Twitter-white?style=flat&logo=twitter&logoColor=4682B4" style="padding-right:10px" />
+<img alt="Toufiq | Twitter"  src="https://img.shields.io/badge/-Twitter-white?style=flat&logo=twitter&logoColor=4682B4" padding-right="10px"" />
 </a>
 <a href="https://www.instagram.com/___swoad.11/">
-<img alt="Toufiq | Instagram"  src="https://img.shields.io/badge/-Instagram-BA55D3?style=flat&logo=instagram&logoColor=white" style="padding-right:10px" />
+<img alt="Toufiq | Instagram"  src="https://img.shields.io/badge/-Instagram-BA55D3?style=flat&logo=instagram&logoColor=white" padding-right="10px"" />
 </a>
 </div>
 
