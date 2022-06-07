@@ -33,17 +33,17 @@
 
 ### Tools:
 
-<img src="https://img.shields.io/badge/-Tailwind%20CSS-00CED1?style=flat&logo=tailwindcss&logoColor=white" align="left"/>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"  align="left"/>
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"  align="left"/>
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"  align="left"/>
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"  align="left"/>
-<img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF"  align="left"/>
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF" align="left"/>
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"  align="left"/>
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"  align="left"/>
-<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white"  align="left"/>
-<img src="https://img.shields.io/badge/-Illustrator-FF8C00?style=flat&logo=adobeillustrator&logoColor=800000" align="left"/>
+<img src="https://img.shields.io/badge/-Tailwind%20CSS-00CED1?style=flat&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff" />
+<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF" />
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF" />
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"/>
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white" />
+<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white"  />
+<img src="https://img.shields.io/badge/-Illustrator-FF8C00?style=flat&logo=adobeillustrator&logoColor=800000" />
 
 <br />
 <br />
