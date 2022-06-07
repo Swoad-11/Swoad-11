@@ -14,17 +14,28 @@
 ### Connect with me:
 
 <div align="center">
-[<img   alt="Toufiq | LinkedIn"  src="https://img.shields.io/badge/-Linkedin-4682B4?style=flat&logo=linkedin&logoColor=white" />][linkedin]
-[<img   alt="Toufiq | Gmail"  src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />][Gmail]
-[<img   alt="Toufiq | Facebook"  src="https://img.shields.io/badge/-Facebook-1E90FF?style=flat&logo=facebook&logoColor=white" />][facebook]
-[<img   alt="Toufiq | Twitter"  src="https://img.shields.io/badge/-Twitter-white?style=flat&logo=twitter&logoColor=4682B4" />][twitter]
-[<img   alt="Toufiq | Instagram"  src="https://img.shields.io/badge/-Instagram-BA55D3?style=flat&logo=instagram&logoColor=white" />][instagram]
+<a href="https://www.linkedin.com/in/tis/" >
+<img alt="Toufiq | LinkedIn"  src="https://img.shields.io/badge/-Linkedin-4682B4?style=flat&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:toufiq11swoad@gmail.com" >
+<img alt="Toufiq | Gmail"  src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/ToufiqIslam11Swoad/" >
+<img alt="Toufiq | Facebook"  src="https://img.shields.io/badge/-Facebook-1E90FF?style=flat&logo=facebook&logoColor=white" />
+</a>
+<a href="https://twitter.com/T11Swoad" >
+<img alt="Toufiq | Twitter"  src="https://img.shields.io/badge/-Twitter-white?style=flat&logo=twitter&logoColor=4682B4" />
+</a>
+<a href="https://www.instagram.com/___swoad.11/" >
+<img alt="Toufiq | Instagram"  src="https://img.shields.io/badge/-Instagram-BA55D3?style=flat&logo=instagram&logoColor=white" />
+</a>
 </div>
 
 <br />
 
 ### Languages:
 
+<div align="center">
 <img   alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img   alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img   alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
@@ -32,13 +43,14 @@
 <img   alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img   alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
 <img   alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
-
+</div>
 
 <br />
 <br />
 
 ### Tools:
 
+<div align="center">
 <img   alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img   alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img   alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
@@ -53,6 +65,7 @@
 <img   alt="Illustrator" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" style="padding-right:10px;" />
 <img   alt="OpenGL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/opengl/opengl-original.svg" style="padding-right:10px;" />
 <img   alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-original.svg" style="padding-right:10px;" />
+</div>
 
 <br />
 <br />
@@ -70,8 +83,3 @@
 
 </details>
 
-[twitter]: https://twitter.com/T11Swoad
-[facebook]: https://www.facebook.com/ToufiqIslam11Swoad/
-[instagram]: https://www.instagram.com/___swoad.11/
-[linkedin]: https://www.linkedin.com/in/tis/
-[Gmail]: mailto:toufiq11swoad@gmail.com
