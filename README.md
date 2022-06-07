@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on Web Development
 - 🌱 Learning everything
-- 🥅 Goals: Learn about blockchaining
+- 🥅 Goals: Learn about blockchain
 - ⚡ Fun fact: I love to draw & a football maniac
 
 ### Connect with me:
