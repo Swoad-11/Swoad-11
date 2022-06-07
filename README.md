@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-<div align="center">
+<div align="left">
 <a href="https://www.linkedin.com/in/tis/" >
 <img alt="Toufiq | LinkedIn"  src="https://img.shields.io/badge/-Linkedin-4682B4?style=flat&logo=linkedin&logoColor=white" />
 </a>
