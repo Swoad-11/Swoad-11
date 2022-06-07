@@ -4,7 +4,7 @@
 
 ## I'm a Developer!!
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" />
 
 - 🔭 I’m currently working on Web Development
 - 🌱 Learning everything
