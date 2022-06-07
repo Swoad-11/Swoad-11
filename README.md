@@ -46,8 +46,10 @@
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Tailwindcss" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Heroku" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/heroku/heroku-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Illustrator" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" style="padding-right:10px;" />
+<img align="left" alt="OpenGL" width="26px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/opengl/opengl-original.svg)" style="padding-right:10px;" />
 <img align="left" alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-original.svg" style="padding-right:10px;" />
 
 <br />
