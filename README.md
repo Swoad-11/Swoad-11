@@ -13,8 +13,8 @@
 
 ### Connect with me:
 
-<div align="left">
-<a href="https://www.linkedin.com/in/tis/" style="padding-right: 10px">
+<div align="left" style="padding-right: 10px;">
+<a href="https://www.linkedin.com/in/tis/" style="padding-right: 10px;">
 <img alt="Toufiq | LinkedIn" style="padding-right: 10px" src="https://img.shields.io/badge/-Linkedin-4682B4?style=flat&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:toufiq11swoad@gmail.com">
