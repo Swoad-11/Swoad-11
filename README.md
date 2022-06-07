@@ -13,11 +13,13 @@
 
 ### Connect with me:
 
+<div align="center">
 [<img   alt="Toufiq | LinkedIn"  src="https://img.shields.io/badge/-Linkedin-4682B4?style=flat&logo=linkedin&logoColor=white" />][linkedin]
 [<img   alt="Toufiq | Gmail"  src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />][Gmail]
 [<img   alt="Toufiq | Facebook"  src="https://img.shields.io/badge/-Facebook-1E90FF?style=flat&logo=facebook&logoColor=white" />][facebook]
 [<img   alt="Toufiq | Twitter"  src="https://img.shields.io/badge/-Twitter-white?style=flat&logo=twitter&logoColor=4682B4" />][twitter]
 [<img   alt="Toufiq | Instagram"  src="https://img.shields.io/badge/-Instagram-BA55D3?style=flat&logo=instagram&logoColor=white" />][instagram]
+</div>
 
 <br />
 
