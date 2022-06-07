@@ -11,11 +11,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Toufiq | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Toufiq | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Toufiq | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Toufiq | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Toufiq | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/discord.svg" />][discord]
+[<img align="left" alt="Toufiq | LinkedIn" width="22px" src="https://img.shields.io/badge/-Linkedin-4682B4?style=flat&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Toufiq | Facebook" width="22px" src="https://img.shields.io/badge/-Facebook-1E90FF?style=flat&logo=facebook&logoColor=white" />][facebook]
+[<img align="left" alt="Toufiq | Twitter" width="22px" src="https://img.shields.io/badge/-Twitter-white?style=flat&logo=twitter&logoColor=4682B4" />][twitter]
+[<img align="left" alt="Toufiq | Instagram" width="22px" src="https://img.shields.io/badge/-Instagram-BA55D3?style=flat&logo=instagram&logoColor=white" />][instagram]
 
 <br />
 
@@ -46,6 +45,7 @@
 <img align="left" alt="Tailwindcss" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Illustrator" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" style="padding-right:10px;" />
+<img align="left" alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-original.svg" style="padding-right:10px;" />
 
 <br />
 <br />
@@ -67,4 +67,3 @@
 [facebook]: https://www.facebook.com/ToufiqIslam11Swoad/
 [instagram]: https://www.instagram.com/___swoad.11/
 [linkedin]: https://www.linkedin.com/in/tis/
-[discord]: https://discord.com/channels/Swoad#7546
