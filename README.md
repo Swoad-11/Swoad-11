@@ -4,6 +4,8 @@
 
 ## I'm a Developer!!
 
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 - 🔭 I’m currently working on Web Development
 - 🌱 Learning everything
 - 🥅 Goals: Learn about blockchaining
