@@ -54,10 +54,9 @@
 <img alt="Git" src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF" />
 <img alt="GitHub" src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF" />
 <img alt="React" src="https://img.shields.io/badge/-React-00c8ff?style=flat&logo=react&logoColor=white" />
-<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white" />
+<img alt="Redux" src="https://img.shields.io/badge/-Redux-FFFFFF?style=flat&logo=redux&logoColor=563D7C" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
 <img alt="Tailwindcss" src="https://img.shields.io/badge/-Tailwind%20CSS-20B2AA?style=flat&logo=tailwindcss&logoColor=white" />
-<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF" />
 <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-FF8C00?style=flat&logo=adobeillustrator&logoColor=800000" />
 <img alt="OpenGL" src="https://img.shields.io/badge/-OpenGL-5F9EA0?style=flat&logo=opengl&logoColor=white" />
 <img alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-90EE90?style=flat&logo=androidstudio&logoColor=white" />
