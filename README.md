@@ -8,8 +8,8 @@
 
 - 🔭 I’m currently working on Web Development
 - 🌱 Learning everything
-- 🥅 Goals: Learn about blockchain
-- ⚡ Fun fact: I love to draw & a football maniac
+- 🥅 Goal: Self-development
+- ⚡ Fun fact: Introvert, dendrophile, animal lover & a football maniac
 
 ### Connect with me:
 
