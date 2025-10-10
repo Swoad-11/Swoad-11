@@ -1,15 +1,15 @@
 ![](https://komarev.com/ghpvc/?username=Swoad-11&color=blueviolet)
 
-### Hi there, I'm Toufiq 👋
+## Hi there, I'm Toufiq 👋
 
-## I'm a Developer!!
+### Passionate Web Developer | React & WordPress
 
 <img width="25%" align="right" alt="Github" src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" />
 
-- 🔭 I’m currently working on Web Development
-- 🌱 Learning everything
-- 🥅 Goal: Self-development
-- ⚡ Fun fact: Introvert, dendrophile, animal lover & a football maniac
+- 💻 Building things on the web, learning from every pixel
+- 🤖 Exploring the world of AI and technology
+- 🎯 Goal: Self-improvement through curiosity and creativity
+- ⚡ Fun fact: I’m an introvert, dendrophile, animal lover, and a football enthusiast
 
 ### Connect with me:
 
@@ -41,6 +41,7 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-0066cc?style=flat&logo=python&logoColor=white" />
 <img alt="C & C++" src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff" />
+<img alt="PHP" src="https://img.shields.io/badge/-php-615fff?style=flat&logo=php&logoColor=white" />
 </div>
 
 
@@ -51,15 +52,12 @@
 
 <div align="left">
 <img alt="Visual Studio Code" src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white" />
-<img alt="Git" src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF" />
 <img alt="GitHub" src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF" />
-<img alt="React" src="https://img.shields.io/badge/-React-00c8ff?style=flat&logo=react&logoColor=white" />
-<img alt="Redux" src="https://img.shields.io/badge/-Redux-FFFFFF?style=flat&logo=redux&logoColor=563D7C" />
-<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
-<img alt="Tailwindcss" src="https://img.shields.io/badge/-Tailwind%20CSS-20B2AA?style=flat&logo=tailwindcss&logoColor=white" />
+<img alt="ReactJS" src="https://img.shields.io/badge/-React-00c8ff?style=flat&logo=react&logoColor=white" />
+<img alt="TailwindCss" src="https://img.shields.io/badge/-Tailwind%20CSS-20B2AA?style=flat&logo=tailwindcss&logoColor=white" />
 <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-FF8C00?style=flat&logo=adobeillustrator&logoColor=800000" />
-<img alt="OpenGL" src="https://img.shields.io/badge/-OpenGL-5F9EA0?style=flat&logo=opengl&logoColor=white" />
-<img alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-90EE90?style=flat&logo=androidstudio&logoColor=white" />
+<img alt="WordPress" src="https://img.shields.io/badge/-wordpress-615fff?style=flat&logo=wordpress&logoColor=white" />
+<img alt="Elementor" src="https://img.shields.io/badge/-elementor-615fff?style=flat&logo=elementor&logoColor=white" />
 </div>
 
 <br />
