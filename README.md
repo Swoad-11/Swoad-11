@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Swoad-11&color=blueviolet)
 ## Hi there, I'm Toufiq 👋
 ### Passionate Web Developer | React & WordPress
-<img width="25%" align="right" alt="Github" src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" />
+<img width="25%" align="right" alt="Github" src="[https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif](https://i.pinimg.com/originals/ff/d9/b4/ffd9b46366e14141790a80d4922485bf.gif)" />
 - 💻 Building things on the web, learning from every pixel
 - 🤖 Exploring the world of AI and technology
 - 🎯 Goal: Self-improvement through curiosity and creativity
