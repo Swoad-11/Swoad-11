@@ -1,18 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=Swoad-11&color=blueviolet)
-
 ## Hi there, I'm Toufiq 👋
-
 ### Passionate Web Developer | React & WordPress
-
 <img width="25%" align="right" alt="Github" src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" />
-
 - 💻 Building things on the web, learning from every pixel
 - 🤖 Exploring the world of AI and technology
 - 🎯 Goal: Self-improvement through curiosity and creativity
-- ⚡ Fun fact: I’m an introvert, dendrophile, animal lover, and a football enthusiast
+- ⚡ Fun fact: I'm an introvert, dendrophile, animal lover, and a football enthusiast
 
 ### Connect with me:
-
 <div align="left">
 <a href="https://www.linkedin.com/in/swoad/">
 <img alt="Toufiq | LinkedIn" src="https://img.shields.io/badge/-Linkedin-4682B4?style=flat&logo=linkedin&logoColor=white"/>
@@ -34,7 +29,6 @@
 <br />
 
 ### Languages:
-
 <div align="left">
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
@@ -44,20 +38,18 @@
 <img alt="PHP" src="https://img.shields.io/badge/-php-615fff?style=flat&logo=php&logoColor=white" />
 </div>
 
-
 <br />
 <br />
 
 ### Tools:
-
 <div align="left">
 <img alt="Visual Studio Code" src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white" />
 <img alt="GitHub" src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF" />
 <img alt="ReactJS" src="https://img.shields.io/badge/-React-00c8ff?style=flat&logo=react&logoColor=white" />
 <img alt="TailwindCss" src="https://img.shields.io/badge/-Tailwind%20CSS-20B2AA?style=flat&logo=tailwindcss&logoColor=white" />
+<img alt="WordPress" src="https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white" />
+<img alt="Elementor" src="https://img.shields.io/badge/-Elementor-92003B?style=flat&logo=elementor&logoColor=white" />
 <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-FF8C00?style=flat&logo=adobeillustrator&logoColor=800000" />
-<img alt="WordPress" src="https://img.shields.io/badge/-wordpress-615fff?style=flat&logo=wordpress&logoColor=white" />
-<img alt="Elementor" src="https://img.shields.io/badge/-elementor-615fff?style=flat&logo=elementor&logoColor=white" />
 </div>
 
 <br />
@@ -73,13 +65,25 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Swoad-11/github-readme-stats)
+### 📊 GitHub Stats:
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Swoad-11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swoad-11&layout=compact&theme=tokyonight"/>
+</div>
+
+<br />
+
+### 🏆 GitHub Trophies:
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Swoad-11&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
+<br />
+
+### 🐍 Contribution Graph:
+<div align="center">
+  <img src="https://github.com/Swoad-11/Swoad-11/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ---
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img   alt="Toufiq's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Swoad-11&show_icons=true&theme=tokyonight"/>
-
-</details>
