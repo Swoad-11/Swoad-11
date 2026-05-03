@@ -2,6 +2,7 @@
 ## Hi there, I'm Toufiq 👋
 ### Passionate Web Developer | React & WordPress
 <img width="25%" align="right" alt="Github" src="https://i.pinimg.com/originals/ff/d9/b4/ffd9b46366e14141790a80d4922485bf.gif" />
+
 - 💻 Building things on the web, learning from every pixel
 - 🤖 Exploring the world of AI and technology
 - 🎯 Goal: Self-improvement through curiosity and creativity
